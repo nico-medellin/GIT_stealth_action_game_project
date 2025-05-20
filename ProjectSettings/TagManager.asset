@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerGoal
+  - Enemy
+  - ground
+  - Rock
+  - Door
+  - Button
+  - FinishLine
+  - Stun
+  - ChaseAITrigger
+  - Vaultable
+  - Laptop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerGoal
+  - Wall
+  - Enemy
+  - PostProcessing
+  - Rock
+  - Stun
+  - Vaultable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
