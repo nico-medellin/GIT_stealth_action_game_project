@@ -6,6 +6,6 @@ Cyber Clash is a stealth action game where you play the role of a secret agent w
 Be careful, if you get caught by any of the guards, that marks the end of your team's journey.
 
 
-A link to the zip file for both the Mac and Windows download can be found here. Check out the game! There is about 10 minutes worth of gameplay!
+A link to the zip file for both the Mac and Windows download can be found [here](https://drive.google.com/file/d/1aubdwKBoIS7i-0cWNySB21DeQEa5VvMf/view). Check out the game! There is about 10 minutes worth of gameplay!
 
-Trailer for the game can be found here! If the embedded video doesn't work, I'm attaching a video file as well. The link to the video can be found here.
+Trailer for the game can be found [here](https://drive.google.com/file/d/1JiDas_WvTAXMnh0b22sAWBqSS_2vD0e4/view)! If the embedded video doesn't work, I'm attaching a video file as well. The link to the video can be found here.
